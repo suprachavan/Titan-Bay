@@ -1,0 +1,60 @@
+body {
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+    color: #00B7FF;
+}
+
+.itemsList {
+    padding: 100px;
+    background-color: gainsboro;
+}
+
+.usersItemsListing {
+    padding: 10px;
+}
+
+.product {
+    max-width: 300px;
+    min-height: 200px;
+}
+
+.biddingSection {
+    padding: 10px;
+    text-align: center;
+}
+
+.bidding-modal {
+    padding: 20px;
+}
+
+.totalBidders {
+    padding: 10px;
+}
+
+.itemSold {
+    color: red;
+    font-size: 2em;
+}
+
+.modal {
+    max-width:400px;
+}
+
+.viewAvatar{
+    min-height:50px;
+}
+
+.olUser{
+    padding:5px;
+}
+
+.usersListings-modal{
+    max-width: 800px;
+}
+
+.itemsbidon-modal{
+    max-width: 800px;
+}
