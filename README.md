@@ -2,10 +2,6 @@
 
 Project 2 : A CSUF Craigslist Web Application
 
-Submission by Team- Savage
-
-Group Members: Duy Do, Supra Chavan, Edwin Diaz-Mendez, Juio Cruz, Niket Kothari 
-
 #Run the web application directly-
 https://csufcraigslist.herokuapp.com/
 
@@ -21,7 +17,7 @@ All the data pertaining to users and movies is stored at the back end in a Mongo
 
 #How to install and run through this repository
 
-1. Clone the project directory from the github repository- https://github.com/jcruz1991/Project-2
+1. Clone the project directory from the github repository.
 2. Navigate to the home project directory and run `npm install`
 3. Start up the MongoDB and server using command `foreman start`
 4. Step 3 will give an error if MongoDB is already running. Please make sure that the process for MongoDB is already stopped before running the command in Step 3. In case of this error in Step 3, You may directly start up the server with `node server.js` command.
